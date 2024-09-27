@@ -1,0 +1,48 @@
+{
+	"model":"01/model.moc",
+	"textures":[
+		"01/textures/0.png"
+	],
+	"expressions":[
+		{"name":"F_ANGRY",   "file":"common/exp/F_ANGRY.exp.json"},
+		{"name":"F_DOWN",    "file":"common/exp/F_DOWN.exp.json"},
+		{"name":"F_FUN",     "file":"common/exp/F_FUN.exp.json"},
+		{"name":"F_NOMAL",   "file":"common/exp/F_NOMAL.exp.json"},
+		{"name":"F_SAD",     "file":"common/exp/F_SAD.exp.json"},
+		{"name":"F_SURPRISE","file":"common/exp/F_SURPRISE.exp.json"}
+	],
+	"hit_areas":[
+		{"name":"head","id":"D_REF.PT_HEAD"},
+		{"name":"body","id":"D_REF.PT_BODY"}
+	],
+	"motions":{
+		"":[
+			{"file":"common/mtn/I_ANGRY.mtn"},
+			{"file":"common/mtn/I_ANGRY_S.mtn"},
+			{"file":"common/mtn/I_ANGRY_W.mtn"},
+			{"file":"common/mtn/I_FUN.mtn"},
+			{"file":"common/mtn/I_FUN_S.mtn"},
+			{"file":"common/mtn/I_FUN_W.mtn"},
+			{"file":"common/mtn/I_SAD.mtn"},
+			{"file":"common/mtn/I_SAD_S.mtn"},
+			{"file":"common/mtn/I_SAD_W.mtn"},
+			{"file":"common/mtn/I_SURPRISE.mtn"},
+			{"file":"common/mtn/I_SURPRISE_S.mtn"},
+			{"file":"common/mtn/I_SURPRISE_W.mtn"},
+			{"file":"common/mtn/IDLING_01.mtn"},
+			{"file":"common/mtn/IDLING_02.mtn"},
+			{"file":"common/mtn/IDLING_03.mtn"},
+			{"file":"common/mtn/REPEAT_01.mtn"}
+		],
+		"idle":[
+			{"file":"common/mtn/IDLING_01.mtn"}
+		]
+	},
+	"physics":"01/physics.json",
+	"pose":"01/pose.json",
+	"layout":{
+		"width":1.85,
+		"center_x":0,
+		"center_y":-0.31
+	}
+}
