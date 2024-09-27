@@ -3,6 +3,7 @@
 
 <p>Make your waifu come alive!</p>
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/AzharRizky/Live2D-Model/main/LICENSE)
 [![Issue](https://img.shields.io/github/issues/AzharRizky/Live2D-Model)](https://img.shields.io/github/issues/AzharRizky/Live2D-Model)
 [![Forks](https://img.shields.io/github/forks/AzharRizky/Live2D-Model)](https://img.shields.io/github/forks/AzharRizky/Live2D-Model)
 [![Stars](https://img.shields.io/github/stars/AzharRizky/Live2D-Model)](https://img.shields.io/github/stars/AzharRizky/Live2D-Model)
