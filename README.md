@@ -54,7 +54,7 @@ And you can custom your model and positioning the model with native JavaScript:
                 height: 475,
                 left: "-75px",
                 bottom: "0px",
-                role: "https://model.zulma.id/assets/models/[Anime Title/Game Title]/[Character Name]/[model name].json",
+                role: "https://model.zulma.id/assets/models/[Anime Title/Game Title]/[Character Name]/[model name].json", //Model API URL
                 opacity: 1,
                 scale: 0.2,
                 draggable: false,
@@ -63,6 +63,8 @@ And you can custom your model and positioning the model with native JavaScript:
     });
 </script>
 ```
+
+Note: You can get the model API URL at this Preview Demo Website: [Models Preview](https://model.zulma.id/)
 
 # Example
 
