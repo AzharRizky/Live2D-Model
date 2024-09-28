@@ -54,6 +54,30 @@ And you can custom your model and positioning the model with native JavaScript:
                 height: 475,
                 left: "-75px",
                 bottom: "0px",
+                role: "https://model.zulma.id/assets/models/[Anime Title/Game Title]/[Character Name]/[model name].json",
+                opacity: 1,
+                scale: 0.2,
+                draggable: false,
+            },
+        ]);
+    });
+</script>
+```
+
+# Example
+
+This is example of using Live2D Model:
+```html
+<script src="https://cubism.live2d.com/sdk-web/cubismcore/live2dcubismcore.min.js"></script>
+<script src="https://cdn.jsdelivr.net/combine/gh/dylanNew/live2d/webgl/Live2D/lib/live2d.min.js,npm/pixi.js@6.5.2/dist/browser/pixi.min.js,npm/pixi-live2d-display/dist/index.min.js,gh/Weidows-projects/Live2dLoader/dist/Live2dLoader.min.js"></script>
+<script>
+    addEventListener("DOMContentLoaded",function(){
+        new Live2dLoader([
+            {
+                width: 350,
+                height: 475,
+                left: "-75px",
+                bottom: "0px",
                 role: "https://model.zulma.id/assets/models/Saekano/kato/01.json",
                 opacity: 1,
                 scale: 0.2,
