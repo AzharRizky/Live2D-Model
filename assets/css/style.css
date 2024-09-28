@@ -118,25 +118,25 @@
 }
 @media only screen and (max-width: 591px) {
     .modal {
-        margin-top: 630px;
+        margin-top: 530px;
         left: 0px;
     }
 }
 @media only screen and (max-width: 574px) {
     .modal {
-        margin-top: 630px;
+        margin-top: 430px;
         left: 0px;
     }
 }
 @media only screen and (max-width: 422px) {
     .modal {
-        margin-top: 630px;
+        margin-top: 330px;
         left: 0px;
     }
 }
 @media only screen and (max-width: 386px) {
     .modal {
-        margin-top: 630px;
+        margin-top: 230px;
         left: 0px;
     }
 }
