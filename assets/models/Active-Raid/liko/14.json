@@ -1,0 +1,57 @@
+{
+	"model":"14/model.moc",
+	"physics":"14/physics.json",
+	"textures":[
+		"common/textures/0.png",
+		"14/textures/1.png",
+		"14/textures/2.png",
+		"14/textures/3.png",
+		"common/textures/4.png"
+	],
+	"expressions":[
+		{"name":"F_FUN",         "file":"common/expressions/F_FUN.json"},
+		{"name":"F_FUN_HANIKAMI","file":"common/expressions/F_FUN_HANIKAMI.json"},
+		{"name":"F_FUN_MAX",     "file":"common/expressions/F_FUN_MAX.json"},
+		{"name":"F_FUN_SMILE",   "file":"common/expressions/F_FUN_SMILE.json"},
+		{"name":"F_FUN_WARM",    "file":"common/expressions/F_FUN_WARM.json"},
+		{"name":"F_NOMAL",       "file":"common/expressions/F_NOMAL.json"},
+		{"name":"F_SAD",         "file":"common/expressions/F_SAD.json"},
+		{"name":"F_SURPRISE",    "file":"common/expressions/F_SURPRISE.json"},
+		{"name":"F_ANGRY",       "file":"common/expressions/F_ANGRY.json"},
+		{"name":"F_SLEEP",       "file":"common/expressions/F_SLEEP.json"}
+	],
+	"hit_areas":[
+		{"name":"chest","id":"D_REF.PT_CHEST"},
+		{"name":"head", "id":"D_REF.PT_HEAD"},
+		{"name":"body", "id":"D_REF.PT_BODY"},
+		{"name":"foot", "id":"D_REF.PT_FOOT"}
+	],
+	"motions":{
+		"":[
+			{"file":"common/motions/I_ANGRY_S.mtn"},
+			{"file":"common/motions/I_ANGRY_W.mtn"},
+			{"file":"common/motions/I_FUN.mtn"},
+			{"file":"common/motions/I_FUN_S.mtn"},
+			{"file":"common/motions/I_FUN_W.mtn"},
+			{"file":"common/motions/I_SAD.mtn"},
+			{"file":"common/motions/I_SAD_S.mtn"},
+			{"file":"common/motions/I_SAD_W.mtn"},
+			{"file":"common/motions/I_SURPRISE.mtn"},
+			{"file":"common/motions/I_SURPRISE_S.mtn"},
+			{"file":"common/motions/I_SURPRISE_W.mtn"},
+			{"file":"common/motions/IDLING.mtn"},
+			{"file":"common/motions/IDLING_02.mtn"},
+			{"file":"common/motions/IDLING_03.mtn"},
+			{"file":"common/motions/REPEAT_11.mtn"},
+			{"file":"common/motions/REPEAT_02.mtn"},
+			{"file":"common/motions/REPEAT_03.mtn"},
+			{"file":"common/motions/BYEBYE.mtn"},
+			{"file":"common/motions/I_ANGRY.mtn"}
+		],
+		"idle":[
+			{"file":"common/motions/idle/0.mtn","fade_in":2000,"fade_out":2000},
+			{"file":"common/motions/idle/1.mtn","fade_in":2000,"fade_out":2000},
+			{"file":"common/motions/idle/2.mtn","fade_in":2000,"fade_out":2000}
+		]
+	}
+}
