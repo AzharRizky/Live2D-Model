@@ -1,0 +1,51 @@
+{
+	"model":"21/model.moc",
+	"physics":"21/physics.json",
+	"textures":[
+		"common/textures/0b.png",
+		"common/textures/1b.png",
+		"21/textures/2.png",
+		"21/textures/3.png"
+	],
+	"expressions":[
+		{"name":"FUN",         "file":"common/expressions/FUN.json"},
+		{"name":"FUN_HANIKAMI","file":"common/expressions/FUN_HANIKAMI.json"},
+		{"name":"FUN_MAX",     "file":"common/expressions/FUN_MAX.json"},
+		{"name":"FUN_SMILE",   "file":"common/expressions/FUN_SMILE.json"},
+		{"name":"FUN_WARM",    "file":"common/expressions/FUN_WARM.json"},
+		{"name":"NOMAL",       "file":"common/expressions/NOMAL.json"},
+		{"name":"SAD",         "file":"common/expressions/SAD.json"},
+		{"name":"SURPRISE",    "file":"common/expressions/SURPRISE.json"},
+		{"name":"ANGRY",       "file":"common/expressions/ANGRY.json"},
+		{"name":"SLEEP",       "file":"common/expressions/SLEEP.json"}
+	],
+	"hit_areas":[
+		{"name":"head","id":"D_REF.PT_HEAD"},
+		{"name":"chest","id":"D_REF.PT_CHEST"},
+		{"name":"body","id":"D_REF.PT_BODY"}
+	],
+	"motions":{
+		"idle":[
+			{"file":"common/motions/idle/0.mtn","fade_in":2000,"fade_out":2000},
+			{"file":"common/motions/idle/1.mtn","fade_in":2000,"fade_out":2000},
+			{"file":"common/motions/idle/2.mtn","fade_in":2000,"fade_out":2000}
+		],
+		"tap_body":[
+			{"file":"common/motions/tap_body/0.mtn","sound":"common/sounds/VO_Asuna_com_0000002B.wav"},
+			{"file":"common/motions/tap_body/1.mtn","sound":"common/sounds/VO_Asuna_com_0000002C.wav"},
+			{"file":"common/motions/tap_body/2.mtn","sound":"common/sounds/VO_Asuna_com_0000002D.wav"}
+		],
+		"pinch_in":[
+			{"file":"common/motions/pinchIn_00.mtn","sound":"sounds/pinchIn_00.mp3"}
+		],
+		"pinch_out":[
+			{"file":"common/motions/pinchOut_00.mtn","sound":"sounds/pinchOut_00.mp3"}
+		],
+		"shake":[
+			{"file":"common/motions/shake_00.mtn","sound":"sounds/shake_00.mp3","fade_in":500}
+		],
+		"flick_head":[
+			{"file":"common/motions/flickHead_00.mtn","sound":"sounds/flickHead_00.mp3"}
+		]
+	}
+}

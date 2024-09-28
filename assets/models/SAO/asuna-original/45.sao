@@ -1,0 +1,54 @@
+{
+	"model":"45/model.moc",
+	"physics":"45/physics.json",
+	"textures":[
+		"common/textures/0.png",
+		"common/textures/1.png",
+		"45/textures/2.png",
+		"45/textures/3.png",
+		"45/textures/4.png"
+	],
+	"hit_areas":[
+		{"name":"chest","id":"D_REF.PT_CHEST"},
+		{"name":"head", "id":"D_REF.PT_HEAD"},
+		{"name":"body", "id":"D_REF.PT_BODY"},
+		{"name":"foot", "id":"D_REF.PT_FOOT"}
+	],
+	"expressions":[
+		{"name":"F_FUN_HANIKAMI","file":"common/expressions/F_FUN_HANIKAMI.exp.json"},
+		{"name":"F_FUN_MAX","file":"common/expressions/F_FUN_MAX.exp.json"},
+		{"name":"F_FUN_SMILE","file":"common/expressions/F_FUN_SMILE.exp.json"},
+		{"name":"F_FUN_WARM","file":"common/expressions/F_FUN_WARM.exp.json"},
+		{"name":"F_NOMAL","file":"common/expressions/F_NOMAL.exp.json"},
+		{"name":"F_SAD","file":"common/expressions/F_SAD.exp.json"},
+		{"name":"F_SLEEP","file":"common/expressions/F_SLEEP.exp.json"},
+		{"name":"F_SURPRISE","file":"common/expressions/F_SURPRISE.exp.json"},
+		{"name":"F_ANGRY","file":"common/expressions/F_ANGRY.exp.json"},
+		{"name":"F_FUN","file":"common/expressions/F_FUN.exp.json"}
+	],
+	"motions":{
+		"":[
+			{"file":"common/motions/I_ANGRY_W.mtn"},
+			{"file":"common/motions/I_FUN.mtn"},
+			{"file":"common/motions/I_FUN_S.mtn"},
+			{"file":"common/motions/I_FUN_W.mtn"},
+			{"file":"common/motions/I_SAD.mtn"},
+			{"file":"common/motions/I_SAD_S.mtn"},
+			{"file":"common/motions/I_SAD_W.mtn"},
+			{"file":"common/motions/I_SNEESE.mtn"},
+			{"file":"common/motions/I_SURPRISE.mtn"},
+			{"file":"common/motions/I_SURPRISE_S.mtn"},
+			{"file":"common/motions/I_SURPRISE_W.mtn"},
+			{"file":"common/motions/REPEAT_01.mtn"},
+			{"file":"common/motions/REPEAT_02.mtn"},
+			{"file":"common/motions/REPEAT_03.mtn"},
+			{"file":"common/motions/I_ANGRY.mtn"},
+			{"file":"common/motions/I_ANGRY_S.mtn"}
+		],
+		"idle":[
+			{"file":"common/motions/IDLING.mtn"},
+			{"file":"common/motions/IDLING_02.mtn"},
+			{"file":"common/motions/IDLING_03.mtn"}
+		]
+	}
+}

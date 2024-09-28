@@ -1,0 +1,46 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/moc/asuna_35.moc",
+	"textures":[
+		"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/moc/asuna_35.1024/texture_00.png",
+		"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/moc/asuna_35.1024/texture_01.png",
+		"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/moc/asuna_35.1024/texture_02.png",
+		"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/moc/asuna_35.1024/texture_03.png"
+	],
+	"expressions":[
+		{"name":"F_ANGRY.exp.json","file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/exp/F_ANGRY.exp.json"},
+		{"name":"F_FUN.exp.json","file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/exp/F_FUN.exp.json"},
+		{"name":"F_FUN_HANIKAMI.exp.json","file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/exp/F_FUN_HANIKAMI.exp.json"},
+		{"name":"F_FUN_MAX.exp.json","file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/exp/F_FUN_MAX.exp.json"},
+		{"name":"F_FUN_SMILE.exp.json","file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/exp/F_FUN_SMILE.exp.json"},
+		{"name":"F_FUN_WARM.exp.json","file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/exp/F_FUN_WARM.exp.json"},
+		{"name":"F_NOMAL.exp.json","file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/exp/F_NOMAL.exp.json"},
+		{"name":"F_SAD.exp.json","file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/exp/F_SAD.exp.json"},
+		{"name":"F_SLEEP.exp.json","file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/exp/F_SLEEP.exp.json"},
+		{"name":"F_SURPRISE.exp.json","file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/exp/F_SURPRISE.exp.json"}
+	],
+	"motions":{
+		"":[
+			{"file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/mtn/I_FUN_W.mtn"},
+			{"file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/mtn/I_SAD.mtn"},
+			{"file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/mtn/I_SAD_S.mtn"},
+			{"file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/mtn/I_SAD_W.mtn"},
+			{"file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/mtn/I_SNEESE.mtn"},
+			{"file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/mtn/I_SURPRISE.mtn"},
+			{"file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/mtn/I_SURPRISE_S.mtn"},
+			{"file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/mtn/I_SURPRISE_W.mtn"},
+			{"file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/mtn/IDLING.mtn"},
+			{"file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/mtn/IDLING_02.mtn"},
+			{"file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/mtn/IDLING_03.mtn"},
+			{"file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/mtn/REPEAT_01.mtn"},
+			{"file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/mtn/REPEAT_02.mtn"},
+			{"file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/mtn/REPEAT_03.mtn"},
+			{"file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/mtn/I_ANGRY.mtn"},
+			{"file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/mtn/I_ANGRY_S.mtn"},
+			{"file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/mtn/I_ANGRY_W.mtn"},
+			{"file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/mtn/I_FUN.mtn"},
+			{"file":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/mtn/I_FUN_S.mtn"}
+		]
+	},
+	"physics":"C:/Users/a_ali_000/Desktop/asuna_cheerまとめ/asuna_35/asuna_35.physics.json"
+}
