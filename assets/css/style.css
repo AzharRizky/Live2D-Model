@@ -1,0 +1,143 @@
+/******************************************************************************/
+/*  CASCADING STYLE SHEET ASSETS                                              */
+/*----------------------------------------------------------------------------*/
+/*  Copyright (C) 2023 MINEVERSAL                                             */
+/*  Licensed material of MINEVERSAL                                           */
+/*----------------------------------------------------------------------------*/
+/*  Object              : CSSA (CASCADING STYLE SHEET ASSETS)                 */
+/*  Outline             : CSSA (CASCADING STYLE SHEET ASSETS)                 */
+/*  File ID             : Zulma-CSSA-1                                        */
+/*----------------------------------------------------------------------------*/
+/*  Author              : Joe                                                 */
+/*  Revision Author     : -                                                   */
+/*  Created Time        : 2023/12/10 14:16 (UTC+07:00)                        */
+/*  Modification Time   : 2023/12/10 14:16 (UTC+07:00)                        */
+/*  Version             : 1 (Number of Version)                               */
+/*  Revision            : 0 (Number of Revision)                              */
+/******************************************************************************/
+
+/******************************************************************************/
+/*        ALL CONTENT                                                         */
+/******************************************************************************/
+*::-webkit-scrollbar {
+    width: 10px;
+}
+
+*::-webkit-scrollbar-track {
+    background: whitesmoke;
+}
+
+*::-webkit-scrollbar-thumb {
+    background: linear-gradient(90deg, rgba(120,120,121,1) 0%, rgba(136,136,136,1) 100%);
+    border-radius: 10px;
+}
+
+.background {
+    background: url('https://woilu.net/assets/images/background.jpg') no-repeat fixed center center;
+    background-size: cover;
+}
+
+.link-bar {
+    background: #FFFFFF;
+    border: 1px solid lightgray;
+    border-radius: .3rem;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+}
+
+.link-bar:hover {
+    box-shadow: 0px 0px 4px 0px #B5B5B5;
+}
+
+.link-bar i {
+    font-size: 18px;
+    color: gray;
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.link-bar i:hover, .link-bar i:focus {
+    color: var(--color-blue);
+}
+
+.link-bar input {
+    flex-grow: 1;
+    height: 30px;
+    margin-right: 15px;
+    font-size: 16px;
+    border: none;
+}
+
+.link-bar input:focus {
+    outline: none;
+}
+
+.modal {
+    left: 500px;
+}
+
+/******************************************************************************/
+/*        RESPONSIVE LAYOUT                                                   */
+/******************************************************************************/
+@media only screen and (max-width: 1280px) {
+    .modal {
+        left: 330px;
+    }
+}
+@media only screen and (max-width: 1120px) {
+    .modal {
+        left: 285px;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .modal {
+        left: 250px;
+    }
+}
+@media only screen and (max-width: 908px) {
+    .modal {
+        left: 200px;
+    }
+}
+@media only screen and (max-width: 836px) {
+    .modal {
+        left: 150px;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .modal {
+        left: 100px;
+    }
+}
+@media only screen and (max-width: 639px) {
+    .modal {
+        margin-top: 630px;
+        left: 0px;
+    }
+}
+@media only screen and (max-width: 591px) {
+    .modal {
+        margin-top: 630px;
+        left: 0px;
+    }
+}
+@media only screen and (max-width: 574px) {
+    .modal {
+        margin-top: 630px;
+        left: 0px;
+    }
+}
+@media only screen and (max-width: 422px) {
+    .modal {
+        margin-top: 630px;
+        left: 0px;
+    }
+}
+@media only screen and (max-width: 386px) {
+    .modal {
+        margin-top: 630px;
+        left: 0px;
+    }
+}
+/******** END OF FILE *********************************************************/
