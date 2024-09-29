@@ -102,6 +102,39 @@ const c_list_modelDir = [
     "/assets/models/Konosuba/kyouya_01/1114100.model3.json",          // 79
     "/assets/models/Konosuba/dust_01/1124100.model3.json",            // 80
     "/assets/models/Konosuba/dust_02/1124110.model3.json",            // 81
+    "/assets/models/Konosuba/rin_01/1134100.model3.json",             // 82
+    "/assets/models/Konosuba/rin_02/1134110.model3.json",             // 83
+    "/assets/models/Konosuba/lia_01/1144100.model3.json",             // 84
+    "/assets/models/Konosuba/lia_02/1144105.model3.json",             // 85
+    "/assets/models/Konosuba/cielo_01/1154100.model3.json",           // 86
+    "/assets/models/Konosuba/cielo_02/1154105.model3.json",           // 87
+    "/assets/models/Konosuba/erika_01/1164100.model3.json",           // 88
+    "/assets/models/Konosuba/erika_02/1164105.model3.json",           // 89
+    "/assets/models/Konosuba/erika_03/1164110.model3.json",           // 90
+    "/assets/models/Konosuba/melissa_01/1174100.model3.json",         // 91
+    "/assets/models/Konosuba/mia_01/1184100.model3.json",             // 92
+    "/assets/models/Konosuba/amy_01/1194100.model3.json",             // 93
+    "/assets/models/Konosuba/daniel_01/1209100.model3.json",          // 94
+    "/assets/models/Konosuba/monster_01/1209106.model3.json",         // 95
+    "/assets/models/Konosuba/charlie_01/1219100.model3.json",         // 96
+    "/assets/models/Konosuba/monster_02/1219106.model3.json",         // 97
+    "/assets/models/Konosuba/luna_01/1229100.model3.json",            // 98
+    "/assets/models/Konosuba/sena_01/1239100.model3.json",            // 99
+    "/assets/models/Konosuba/receptionist_succubus_01/1249100.model3.json", // 100
+    "/assets/models/Konosuba/rain_01/1259100.model3.json",            // 101
+    "/assets/models/Konosuba/claire_01/1269100.model3.json",          // 102
+    "/assets/models/Konosuba/support_01/1279100.model3.json",         // 103
+    "/assets/models/Konosuba/vanir_01/1289100.model3.json",           // 104
+    "/assets/models/Konosuba/vanir_02/1289108.model3.json",           // 105
+    "/assets/models/Konosuba/ruffian_01/1299100.model3.json",         // 106
+    "/assets/models/Konosuba/beldia_01/1309100.model3.json",          // 107
+    "/assets/models/Konosuba/walther_01/1329100.model3.json",         // 108
+    "/assets/models/Konosuba/eris_01/1339100.model3.json",         // 109
+    "/assets/models/Konosuba/chomusuke_01/1349100.model3.json",         // 110
+    "/assets/models/Konosuba/hans_01/1369100.model3.json",         // 111
+    "/assets/models/Konosuba/alderp_01/1399100.model3.json",         // 112
+    "/assets/models/Konosuba/support_02/1409100.model3.json",         // 113
+    "/assets/models/Konosuba/support_03/1429100.model3.json",         // 114
 ];
 
 /* Query Selector to Get Input Output Box and Drop Down Element on Page */
