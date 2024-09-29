@@ -74,6 +74,32 @@ const c_list_modelDir = [
     "/assets/models/SAO/asuna/asuna_52/asuna_52.model.json",          // 51
     "/assets/models/SAO/asuna/asuna_53/asuna_53.model.json",          // 52
     "/assets/models/SAO/asuna/asuna_54/asuna_54.model.json",          // 53
+    "/assets/models/Konosuba/kazuma_01/1003104.model3.json",          // 54
+    "/assets/models/Konosuba/kazuma_02/1004100.model3.json",          // 55
+    "/assets/models/Konosuba/kazuma_03/1004107.model3.json",          // 56
+    "/assets/models/Konosuba/kazuma_04/1009109.model3.json",          // 57
+    "/assets/models/Konosuba/aqua_01/1013104.model3.json",            // 58
+    "/assets/models/Konosuba/aqua_02/1014100.model3.json",            // 59
+    "/assets/models/Konosuba/aqua_03/1014107.model3.json",            // 60
+    "/assets/models/Konosuba/megumin_01/1023104.model3.json",         // 61
+    "/assets/models/Konosuba/megumin_02/1024100.model3.json",         // 62
+    "/assets/models/Konosuba/megumin_03/1024107.model3.json",         // 63
+    "/assets/models/Konosuba/megumin_04/1024113.model3.json",         // 64
+    "/assets/models/Konosuba/darkness_01/1033104.model3.json",        // 65
+    "/assets/models/Konosuba/darkness_02/1033113.model3.json",        // 66
+    "/assets/models/Konosuba/darkness_03/1034100.model3.json",        // 67
+    "/assets/models/Konosuba/darkness_04/1034107.model3.json",        // 68
+    "/assets/models/Konosuba/darkness_05/1039108.model3.json",        // 69
+    "/assets/models/Konosuba/chris_01/1044100.model3.json",           // 70
+    "/assets/models/Konosuba/wiz_01/1054100.model3.json",             // 71
+    "/assets/models/Konosuba/wiz_02/1054113.model3.json",             // 72
+    "/assets/models/Konosuba/yunyun_01/1063113.model3.json",          // 73
+    "/assets/models/Konosuba/yunyun_02/1064100.model3.json",          // 74
+    "/assets/models/Konosuba/iris_01/1074100.model3.json",            // 75
+    "/assets/models/Konosuba/komekko_01/1084100.model3.json",         // 76
+    "/assets/models/Konosuba/cecily_01/1094100.model3.json",          // 77
+    "/assets/models/Konosuba/arue_01/1104100.model3.json",            // 78
+    "/assets/models/Konosuba/kyouya_01/1114100.model3.json",          // 79
 ];
 
 /* Query Selector to Get Input Output Box and Drop Down Element on Page */
