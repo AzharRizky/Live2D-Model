@@ -71,7 +71,6 @@ const c_list_modelDir = [
     "/assets/models/SAO/asuna/asuna_48/asuna_48.model.json",
     "/assets/models/SAO/asuna/asuna_49/asuna_49.model.json",
     "/assets/models/SAO/asuna/asuna_50/asuna_50.model.json",
-    "/assets/models/SAO/asuna/asuna_51/asuna_51.model.json",
     "/assets/models/SAO/asuna/asuna_52/asuna_52.model.json",
     "/assets/models/SAO/asuna/asuna_53/asuna_53.model.json",
     "/assets/models/SAO/asuna/asuna_54/asuna_54.model.json",
