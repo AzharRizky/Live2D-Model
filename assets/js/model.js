@@ -129,10 +129,10 @@ const c_list_modelDir = [
     "/assets/models/Konosuba/ruffian_01/1299100.model3.json",         // 106
     "/assets/models/Konosuba/beldia_01/1309100.model3.json",          // 107
     "/assets/models/Konosuba/walther_01/1329100.model3.json",         // 108
-    "/assets/models/Konosuba/eris_01/1339100.model3.json",         // 109
-    "/assets/models/Konosuba/chomusuke_01/1349100.model3.json",         // 110
-    "/assets/models/Konosuba/hans_01/1369100.model3.json",         // 111
-    "/assets/models/Konosuba/alderp_01/1399100.model3.json",         // 112
+    "/assets/models/Konosuba/eris_01/1339100.model3.json",            // 109
+    "/assets/models/Konosuba/chomusuke_01/1349100.model3.json",       // 110
+    "/assets/models/Konosuba/hans_01/1369100.model3.json",            // 111
+    "/assets/models/Konosuba/alderp_01/1399100.model3.json",          // 112
     "/assets/models/Konosuba/support_02/1409100.model3.json",         // 113
     "/assets/models/Konosuba/support_03/1429100.model3.json",         // 114
 ];
