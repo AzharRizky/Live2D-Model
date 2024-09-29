@@ -100,6 +100,8 @@ const c_list_modelDir = [
     "/assets/models/Konosuba/cecily_01/1094100.model3.json",          // 77
     "/assets/models/Konosuba/arue_01/1104100.model3.json",            // 78
     "/assets/models/Konosuba/kyouya_01/1114100.model3.json",          // 79
+    "/assets/models/Konosuba/dust_01/1124100.model3.json",            // 80
+    "/assets/models/Konosuba/dust_02/1124110.model3.json",            // 81
 ];
 
 /* Query Selector to Get Input Output Box and Drop Down Element on Page */
