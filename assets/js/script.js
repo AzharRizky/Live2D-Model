@@ -6,7 +6,7 @@
 /*----------------------------------------------------------------------------*/
 /*  Object              : JSA (JAVASCRIPT ASSETS)                             */
 /*  Outline             : JSA (JAVASCRIPT ASSETS)                             */
-/*  File ID             : Zulma-JSA-1                                         */
+/*  File ID             : L2DLMPPW-JSA-1                                      */
 /*----------------------------------------------------------------------------*/
 /*  Author              : Joe                                                 */
 /*  Revision Author     : -                                                   */
@@ -68,3 +68,5 @@ function fs_clearText() {
     c_obj_inputText.value = "";
 
 }
+
+/******** END OF FILE *********************************************************/

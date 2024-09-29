@@ -80,6 +80,7 @@
 /******************************************************************************/
 /*        RESPONSIVE LAYOUT                                                   */
 /******************************************************************************/
+/* Responsive Width */
 @media only screen and (max-width: 1280px) {
     .modal {
         left: 330px;
@@ -112,32 +113,69 @@
 }
 @media only screen and (max-width: 639px) {
     .modal {
-        margin-top: 630px;
         left: 0px;
     }
 }
 @media only screen and (max-width: 591px) {
     .modal {
-        margin-top: 530px;
         left: 0px;
     }
 }
 @media only screen and (max-width: 574px) {
     .modal {
-        margin-top: 430px;
         left: 0px;
     }
 }
 @media only screen and (max-width: 422px) {
     .modal {
-        margin-top: 330px;
         left: 0px;
     }
 }
 @media only screen and (max-width: 386px) {
     .modal {
-        margin-top: 230px;
         left: 0px;
+    }
+}
+
+/* Responsive Height */
+@media only screen and (max-height: 1200px) {
+    .modal {
+        margin-top: 750px;
+    }
+}
+@media only screen and (max-height: 1100px) {
+    .modal {
+        margin-top: 700px;
+    }
+}
+@media only screen and (max-height: 1000px) {
+    .modal {
+        margin-top: 670px;
+    }
+}
+@media only screen and (max-height: 950px) {
+    .modal {
+        margin-top: 570px;
+    }
+}
+@media only screen and (max-height: 900px) {
+    .modal {
+        margin-top: 470px;
+    }
+}
+@media only screen and (max-height: 800px) {
+    .modal {
+        margin-top: 370px;
+    }
+}
+@media only screen and (max-height: 700px) {
+    .modal {
+        margin-top: 270px;
+    }
+}
+@media only screen and (max-height: 600px) {
+    .modal {
+        margin-top: 170px;
     }
 }
 /******** END OF FILE *********************************************************/
