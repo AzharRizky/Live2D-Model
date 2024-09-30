@@ -1,0 +1,161 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "moc/M06.moc",
+  "textures": [
+    "moc/M06.2048/texture_00.png",
+    "moc/M06.2048/texture_01.png",
+    "moc/M06.2048/texture_02.png"
+  ],
+  "hit_areas": [
+    {
+      "name": "head",
+      "id": "D_REF.PT_HEAD"
+    },
+    {
+      "name": "chest",
+      "id": "D_REF.PT_BUST"
+    },
+    {
+      "name": "body",
+      "id": "D_REF.PT_BODY"
+    }
+  ],
+  "motions": {
+    "": [
+      {
+        "file": "mtn/IDLING.mtn"
+      },
+      {
+        "file": "mtn/NI10_1.mtn"
+      },
+      {
+        "file": "mtn/NI10_2.mtn"
+      },
+      {
+        "file": "mtn/NI11_1.mtn"
+      },
+      {
+        "file": "mtn/NI11_2.mtn"
+      },
+      {
+        "file": "mtn/NI12_1.mtn"
+      },
+      {
+        "file": "mtn/NI12_2.mtn"
+      },
+      {
+        "file": "mtn/NI13_1.mtn"
+      },
+      {
+        "file": "mtn/NI13_2.mtn"
+      },
+      {
+        "file": "mtn/NI13_3.mtn"
+      },
+      {
+        "file": "mtn/NI14_1.mtn"
+      },
+      {
+        "file": "mtn/NI14_2.mtn"
+      },
+      {
+        "file": "mtn/NI15.mtn"
+      },
+      {
+        "file": "mtn/NI16_1.mtn"
+      },
+      {
+        "file": "mtn/NI16_2.mtn"
+      },
+      {
+        "file": "mtn/NI17.mtn"
+      },
+      {
+        "file": "mtn/NI18_1.mtn"
+      },
+      {
+        "file": "mtn/NI18_2.mtn"
+      },
+      {
+        "file": "mtn/NI18_3.mtn"
+      },
+      {
+        "file": "mtn/NI19.mtn"
+      },
+      {
+        "file": "mtn/NI20_1.mtn"
+      },
+      {
+        "file": "mtn/NI20_2.mtn"
+      },
+      {
+        "file": "mtn/NI20_3.mtn"
+      },
+      {
+        "file": "mtn/NI21.mtn"
+      },
+      {
+        "file": "mtn/NI22.mtn"
+      },
+      {
+        "file": "mtn/NI23.mtn"
+      },
+      {
+        "file": "mtn/NI24.mtn"
+      },
+      {
+        "file": "mtn/NI25_1.mtn"
+      },
+      {
+        "file": "mtn/NI25_2.mtn"
+      },
+      {
+        "file": "mtn/NI26.mtn"
+      },
+      {
+        "file": "mtn/NI27.mtn"
+      },
+      {
+        "file": "mtn/NI28.mtn"
+      },
+      {
+        "file": "mtn/NI29.mtn"
+      },
+      {
+        "file": "mtn/NI4.mtn"
+      },
+      {
+        "file": "mtn/NI5.mtn"
+      },
+      {
+        "file": "mtn/NI6.mtn"
+      },
+      {
+        "file": "mtn/NI7.mtn"
+      },
+      {
+        "file": "mtn/NI8_1.mtn"
+      },
+      {
+        "file": "mtn/NI9_2.mtn"
+      },
+      {
+        "file": "mtn/touch_s.mtn"
+      },
+      {
+        "file": "mtn/touch_w.mtn"
+      }
+    ],
+    "idle": [
+      {
+        "file": "mtn/IDLING.mtn"
+      }
+    ]
+  },
+  "physics": "kato_M06.physics.json",
+  "layout": {
+    "width": 2.2,
+    "center_x": 0,
+    "center_y": -0.25
+  }
+}
