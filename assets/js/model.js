@@ -148,6 +148,27 @@ const c_list_modelDir = [
     "/assets/models/Konosuba/alderp_01/1399100.model3.json",          // 125
     "/assets/models/Konosuba/support_02/1409100.model3.json",         // 126
     "/assets/models/Konosuba/support_03/1429100.model3.json",         // 127
+    "/assets/models/Date-A-Live/kurumi/model.json",                   // 128
+    "/assets/models/Eromanga-Sensei/sagiri/sagiri.model.json",        // 129
+    "/assets/models/ReZero/rem/model.json",                           // 130
+    "/assets/models/Sakurasou/mashiro/ryoufuku.model.json",           // 131
+    "/assets/models/Sakurasou/mashiro/seifuku.model.json",            // 132
+    "/assets/models/Sakurasou/mashiro/shifuku.model.json",            // 133
+    "/assets/models/Sakurasou/ryoufuku/ryoufuku.model.json",          // 134
+    "/assets/models/Sakurasou/seifuku/seifuku.model.json",            // 135
+    "/assets/models/Sakurasou/shifuku/shifuku.model.json",            // 136
+    "/assets/models/Sakurasou/shifuku2/shifuku.model.json",           // 137
+    "/assets/models/Violet-Evergarden/Violet/14.json",                // 138
+    "/assets/models/Toaru-Majutsu-No-Index/index/model.json",         // 139
+    "/assets/models/Toaru-Majutsu-No-Index/kanzaki/kanzaki.model.json", // 140
+    "/assets/models/Toaru-Majutsu-No-Index/kuroko/kuroko.model.json", // 141
+    "/assets/models/Toaru-Majutsu-No-Index/mikoto/mikoto.model.json", // 142
+    "/assets/models/Toaru-Majutsu-No-Index/saten/saten.model.json",   // 143
+    "/assets/models/Toaru-Majutsu-No-Index/stl/stl.model.json",       // 144
+    "/assets/models/Toaru-Majutsu-No-Index/touma/touma.model.json",   // 145
+    "/assets/models/Toaru-Majutsu-No-Index/uiharu/uiharu.model.json", // 146
+    "/assets/models/Senkosan/senko.model3.json",                      // 147
+    "/assets/models/New-Game!/aoba/2.json"                            // 148
 ];
 
 /* Query Selector to Get Input Output Box and Drop Down Element on Page */
