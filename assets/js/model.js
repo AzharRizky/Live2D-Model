@@ -149,11 +149,11 @@ const c_list_modelDir = [
     "/assets/models/Konosuba/support_02/1409100.model3.json",         // 126
     "/assets/models/Konosuba/support_03/1429100.model3.json",         // 127
     "/assets/models/Date-A-Live/kurumi/model.json",                   // 128
-    "/assets/models/Eromanga-Sensei/sagiri/sagiri.model.json",        // 129
-    "/assets/models/ReZero/rem/model.json",                           // 130
-    "/assets/models/Sakurasou/mashiro/ryoufuku.model.json",           // 131
-    "/assets/models/Sakurasou/mashiro/seifuku.model.json",            // 132
-    "/assets/models/Sakurasou/mashiro/shifuku.model.json",            // 133
+    "/assets/models/Eromanga-Sensei/sagiri_1/sagiri.model.json",        // 129
+    "/assets/models/ReZero/rem_1/rem.json",                           // 130
+    "/assets/models/Sakurasou/mashiro_1/ryoufuku.model.json",           // 131
+    "/assets/models/Sakurasou/mashiro_1/seifuku.model.json",            // 132
+    "/assets/models/Sakurasou/mashiro_1/shifuku.model.json",            // 133
     "/assets/models/Sakurasou/ryoufuku/ryoufuku.model.json",          // 134
     "/assets/models/Sakurasou/seifuku/seifuku.model.json",            // 135
     "/assets/models/Sakurasou/shifuku/shifuku.model.json",            // 136
