@@ -41,10 +41,5 @@
 		]
 	},
 	"physics":"katou_01.physics.json",
-	"pose":"katou_01.pose.json",
-	"layout":{
-		"width":1.85,
-		"center_x":0,
-		"center_y":-0.31
-	}
+	"pose":"katou_01.pose.json"
 }
