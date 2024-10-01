@@ -157,7 +157,7 @@ const c_list_modelDir = [
     "/assets/models/Sakurasou/ryoufuku/ryoufuku.model.json",          // 134
     "/assets/models/Sakurasou/seifuku/seifuku.model.json",            // 135
     "/assets/models/Sakurasou/shifuku/shifuku.model.json",            // 136
-    "/assets/models/Sakurasou/shifuku2/shifuku.model.json",           // 137
+    "/assets/models/Sakurasou/shifuku2/shifuku2.model.json",           // 137
     "/assets/models/Violet-Evergarden/Violet/14.json",                // 138
     "/assets/models/Toaru-Majutsu-No-Index/index/model.json",         // 139
     "/assets/models/Toaru-Majutsu-No-Index/kanzaki/kanzaki.model.json", // 140
