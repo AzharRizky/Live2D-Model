@@ -40,7 +40,7 @@ const c_list_modelDir = [
     "/assets/models/SAO/asuna/asuna_04/asuna_04.model.json",          // 17
     "/assets/models/SAO/asuna/asuna_05/asuna_05.model.json",          // 18
     "/assets/models/SAO/asuna/asuna_06/asuna_06.model.json",          // 19
-    "/assets/models/SAO/asuna/asuna_06/asuna_07.model.json",          // 20
+    "/assets/models/SAO/asuna/asuna_07/asuna_07.model.json",          // 20
     "/assets/models/SAO/asuna/asuna_08/asuna_08.model.json",          // 21
     "/assets/models/SAO/asuna/asuna_09/asuna_09.model.json",          // 22
     "/assets/models/SAO/asuna/asuna_10/asuna_10.model.json",          // 23
